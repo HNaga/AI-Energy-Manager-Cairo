@@ -31,5 +31,5 @@ model.fit(X, y)
 print(f"R² Score: {model.score(X, y):.4f}")
 
 joblib.dump(model, 'python_ai/energy_model.pkl')
-df.to_csv('sim_data.csv', index=False)
+df.to_csv('python_ai/sim_data.csv', index=False)
 print("Model and data saved successfully!")
