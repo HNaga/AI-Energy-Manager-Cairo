@@ -1,0 +1,9 @@
+LOCATION,Cairo International Airport,EGY_EG_623750_SW_2000,623750,23.969,31.405,74,2,Egypt,Asia,1,1
+DESIGN CONDITIONS,0.4,99.6,1%,0.4,1%,99.6,0.4,1%,99.6
+TYPICAL/MISSING DATA,0,0,NA,NA,NA
+HOLIDAYS/DAYLIGHT SAVINGS,0,0,0
+DATA PERIOD,1, 1, 1,31,1,Wednesday,1;1, 2, 1,28,1,Thursday,1
+            ,YEAR, MONTH, DAY, HOUR, MINUTE, DATA
+1, 1, 1, 1, 0, -1, 1, Dry Bulb [C], 15.2, Dew Point [C], 10.1, Rel Hum [%], 72, Atm Press [Pa], 101320, Wind Dir [deg], 270, Wind Speed [m/s], 2.5, Cloud Cover [tenths], 8, Precip Water [mm], 0.0, Aerosol Optical Depth [nondim], 0.1, Snow Depth [cm], 0.0, Days Since Last Snow [days], 0, Albedo [nondim], 0.2
+2, 1, 1, 2, 0, -1, 1, Dry Bulb [C], 14.8, Dew Point [C], 9.8, Rel Hum [%], 73, Atm Press [Pa], 101320, Wind Dir [deg], 280, Wind Speed [m/s], 2.2, Cloud Cover [tenths], 8, Precip Water [mm], 0.0, Aerosol Optical Depth [nondim], 0.1, Snow Depth [cm], 0.0, Days Since Last Snow [days], 0, Albedo [nondim], 0.2
+-- (استمر في النسخ لـ8760 ساعة، أو حمل الكامل من الرابط أعلاه للدقة)

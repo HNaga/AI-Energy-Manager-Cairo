@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OpenStudio>
+  <Version>3.4.0</Version>
+  <Building>
+    <Name>Cairo Home 100m2</Name>
+    <Surface>
+      <Name>Exterior Wall</Name>
+      <ConstructionName>Exterior Wall</ConstructionName>
+    </Surface>
+    <!-- غرف: 3 غرف + صالة، 100م²، القاهرة -->
+    <Space>
+      <Name>Room1</Name>
+      <Area>25</Area> <!-- متر مربع -->
+    </Space>
+    <Space>
+      <Name>Room2</Name>
+      <Area>25</Area>
+    </Space>
+    <Space>
+      <Name>Room3</Name>
+      <Area>25</Area>
+    </Space>
+    <Space>
+      <Name>Living Room</Name>
+      <Area>25</Area>
+    </Space>
+    <!-- تكييف وإضاءة -->
+    <ThermalZone>
+      <Name>Zone1</Name>
+      <CoolingSetpointTemperatureSchedule>20 C</CoolingSetpointTemperatureSchedule>
+    </ThermalZone>
+    <!-- لوح شمسي 5kW -->
+    <Photovoltaic>
+      <Name>Solar PV</Name>
+      <Power>5000</Power> <!-- وات -->
+    </Photovoltaic>
+    <!-- بطارية 10kWh -->
+    <Battery>
+      <Name>Battery</Name>
+      <Capacity>10</Capacity> <!-- kWh -->
+    </Battery>
+  </Building>
+</OpenStudio>

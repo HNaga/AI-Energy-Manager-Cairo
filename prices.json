@@ -1,0 +1,8 @@
+{
+  "tiers": {
+    "low": 1.2,
+    "medium": 1.8,
+    "peak": 2.5
+  },
+  "monthly_saving_estimate": 420
+}

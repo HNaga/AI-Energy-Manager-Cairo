@@ -1,0 +1,21 @@
+{
+  "name": "AI Energy Manager",
+  "short_name": "EnergyAI",
+  "description": "AI-Powered Energy Management for Cairo Homes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e40af",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/192/000000/artificial-intelligence.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/512/000000/artificial-intelligence.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
