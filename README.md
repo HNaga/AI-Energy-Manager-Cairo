@@ -24,7 +24,7 @@
 
 ## Screenshots
 <div align="center">
-  <img src="https://files.catbox.moe/0z9p8k.png" width="45%" alt="Dashboard" />
+  <img src="https://files.catbox.moe/vvum2r.png" width="45%" alt="Dashboard" />
   <img src="https://files.catbox.moe/8v7m1r.png" width="45%" alt="Mobile View" />
 </div>
 
