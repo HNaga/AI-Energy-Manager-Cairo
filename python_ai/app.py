@@ -24,10 +24,10 @@ st.markdown("**Smart Home – 100m² Apartment in Cairo**")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("sim_data.csv", parse_dates=['datetime'])
+    return pd.read_csv("python_ai/sim_data.csv", parse_dates=['datetime'])
 
 df = load_data()
-model = joblib.load("energy_model.pkl")
+model = joblib.load("python_ai/energy_model.pkl")
 
 # Chart
 st.subheader("Weekly Energy Profile")
