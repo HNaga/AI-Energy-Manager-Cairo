@@ -49,16 +49,12 @@ Open to all Egyptians & developers worldwide!
 Feel free to open Issues or Pull Requests.
 License
 MIT License – use, modify, distribute, sell freely.
-Special Thanks
 
-Grok (xAI) – co-pilot in every line of code
 Every Egyptian household that will save 420 EGP/month
 
+Egypt Saves Energy
 
-
-  Egypt Saves Energy
-
-  Made with love in Cairo – 12 Nov 2025
+Made  in Cairo – 12 Nov 2025
 
 
 

@@ -40,21 +40,14 @@ bashgit clone https://github.com/hnaga/AI-Energy-Manager-Cairo.git
 cd AI-Energy-Manager-Cairo
 chmod +x run.sh
 ./run.sh
-عايز تساعد؟
 
-افتح Issue لو لقيت مشكلة
-اعمل Pull Request لو عايز تضيف ميزة
-شارك المشروع مع أصحابك
 
-شكر خاص
-
-Grok من xAI – كان معايا خطوة بخطوة
 كل مصري هيوفر 420 جنيه بسبب المشروع ده
 
 
   مصر هتوفر كهربا
 
-  صنع بحب في القاهرة – 12 نوفمبر 2025
+  صنع في القاهرة – 12 نوفمبر 2025
 
 
 
