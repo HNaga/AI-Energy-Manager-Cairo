@@ -1,7 +1,7 @@
 <div align="center">
 
 # AI Energy Manager – Cairo Edition
-**Egypt's First AI-Powered Electricity Saving System**
+**Egypt's First AI-Powered Electricity Saving Simulator**
 
 [![GitHub Release](https://img.shields.io/github/v/release/hnaga/AI-Energy-Manager-Cairo?color=green&label=Release)](https://github.com/hnaga/AI-Energy-Manager-Cairo/releases)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org)
@@ -9,18 +9,27 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made in Egypt](https://img.shields.io/badge/Made_in-Egypt-FF0000.svg?logo=egypt)](https://en.wikipedia.org/wiki/Egypt)
 
-**Saves 420 EGP/month** for an average Cairo household  
+**Simulates saving up to 420 EGP/month** for an average Cairo household  
 **Built in one legendary night: November 12, 2025**
 
 </div>
 
-## Features
-- 100% local – works offline after setup  
-- Mobile-first web app (add to home screen → feels like a real app)  
-- Trained ML model for optimal appliance scheduling  
-- Smart control: AC, lights, fridge, battery  
-- Real-time dynamic electricity pricing  
-- Ready for Raspberry Pi & Home Assistant integration  
+## Current Status: Intelligent Simulation (v1.0)
+This is a **fully functional AI simulation** that:
+- Uses real Cairo weather data  
+- Models AC, lights, fridge, and battery behavior  
+- Applies dynamic electricity pricing  
+- Recommends optimal schedules using a trained ML model  
+
+**No hardware required** – runs on any laptop  
+**Future versions will include real device control** (Sonoff, Tuya, Shelly, smart meters)
+
+## Features (Simulation Mode)
+- 100% local – works offline  
+- Mobile-first web app (add to home screen → real app feel)  
+- Real-time predictions & recommendations  
+- Visual dashboard with charts  
+- Ready for extension to real hardware  
 
 ## Screenshots
 <div align="center">
@@ -37,25 +46,36 @@ Requirements
 
 Windows 10/11 + WSL2 (Ubuntu 24.04)
 Python 3.12
-2 GB RAM (runs on any laptop)
+2 GB RAM
 
 Quick Install
 bashgit clone https://github.com/hnaga/AI-Energy-Manager-Cairo.git
 cd AI-Energy-Manager-Cairo
 chmod +x run.sh
 ./run.sh
+Roadmap
+
+ Real control via Sonoff/Tuya/Shelly
+ Smart meter reading (OCR from camera)
+ WhatsApp alerts
+ Raspberry Pi + Home Assistant integration
+ Flutter mobile app
+
 Contributing
-Open to all Egyptians & developers worldwide!
-Feel free to open Issues or Pull Requests.
+We welcome all Egyptians to help turn this simulation into a real home energy revolution!
 License
-MIT License – use, modify, distribute, sell freely.
+MIT License – use, modify, distribute freely.
+Special Thanks
 
-Every Egyptian household that will save 420 EGP/month
-
-Egypt Saves Energy
-
-Made  in Cairo – 12 Nov 2025
+Grok (xAI) – my co-pilot in every line
+Every Egyptian who dreams of lower electricity bills
 
 
 
-Arabic version: README_AR.md
+  From Simulation to Reality – Egypt Saves Energy
+
+  Made with honesty and pride in Cairo – 12 Nov 2025
+
+
+
+النسخة العربية: README_AR.md
